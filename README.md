@@ -1,1 +1,1 @@
-# berita-new-info
+# info
